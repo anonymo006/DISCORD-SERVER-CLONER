@@ -1,0 +1,131 @@
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 413: {"message": "Request entity too large", "code": 40005}
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 429: {"message": "You are being rate limited.", "retry_after": 0.3, "global": false}
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 429: {"message": "You are being rate limited.", "retry_after": 0.3, "global": false}
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 413: {"message": "Request entity too large", "code": 40005}
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 413: {"message": "Request entity too large", "code": 40005}
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 429: {"message": "You are being rate limited.", "retry_after": 0.3, "global": false}
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 429: {"message": "You are being rate limited.", "retry_after": 0.3, "global": false}
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 429: {"message": "You are being rate limited.", "retry_after": 0.3, "global": false}
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 429: {"message": "You are being rate limited.", "retry_after": 0.3, "global": false}
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 429: {"message": "You are being rate limited.", "retry_after": 0.3, "global": false}
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 429: {"message": "You are being rate limited.", "retry_after": 0.3, "global": false}
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 429: {"message": "You are being rate limited.", "retry_after": 0.3, "global": false}
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 429: {"message": "You are being rate limited.", "retry_after": 0.3, "global": false}
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 429: {"message": "You are being rate limited.", "retry_after": 0.3, "global": false}
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 429: {"message": "You are being rate limited.", "retry_after": 0.3, "global": false}
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 429: {"message": "You are being rate limited.", "retry_after": 0.3, "global": false}
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 429: {"message": "You are being rate limited.", "retry_after": 0.3, "global": false}
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 429: {"message": "You are being rate limited.", "retry_after": 0.3, "global": false}
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 429: {"message": "You are being rate limited.", "retry_after": 0.3, "global": false}
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 429: {"message": "You are being rate limited.", "retry_after": 0.3, "global": false}
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 429: {"message": "You are being rate limited.", "retry_after": 0.3, "global": false}
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 429: {"message": "You are being rate limited.", "retry_after": 0.3, "global": false}
+ERROR:discord_webhook.webhook:webhook message is empty! set content or embed data
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 400: {"message": "Cannot send an empty message", "code": 50006}
+ERROR:discord_webhook.webhook:[1/1] Webhook status code 429: {"message": "You are being rate limited.", "retry_after": 0.3, "global": false}

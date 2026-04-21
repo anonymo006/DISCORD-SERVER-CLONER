@@ -1,0 +1,12 @@
+{
+  "version": "2.1.0",
+  "created_at": "2026-02-27 13:56:18",
+  "last_modified": "2026-02-27 13:56:18",
+  "settings": {
+    "verify_webhooks": true,
+    "fetch_on_startup": false,
+    "fetch_limit": 50,
+    "use_proxies": false,
+    "proxy_file": ""
+  }
+}
